@@ -1,4 +1,4 @@
-/* GESTION Simple */
+CSELECT /* GESTION Simple */
 
 CREATE DATABASE nom_de_votre_db; -- Créer votre base de données
 DROP DATABASE nom_de_votre_db; -- Supprimer une base de données
